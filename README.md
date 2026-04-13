@@ -21,7 +21,21 @@ Username: swasti
 Password: 1308  
 
 ## 📸 Screenshots
-(Add screenshots here)
+
+### 🔐 Login Screen
+![Login](01.jpg)
+
+### 🧾 Dashboard
+![Dashboard](02.jpg)
+
+### 📊 Pie Chart
+![Pie](03.jpg)
+
+### 📊 Bar Chart
+![Bar](04.jpg)
+
+### 📋 Table View
+![Table](05.jpg)
 
 ## 📌 Future Enhancements
 - SQLite Database Integration
